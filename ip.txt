@@ -1,0 +1,4 @@
+🟢 Minecraft Server is Live
+
+Connect using:
+6.tcp.us-cal-1.ngrok.io:18644
